@@ -1,4 +1,4 @@
 # Codsoft
 # internship
 # webdevelopment
-This repository is only for internship in codsoft
+This Repo contains my Portfolio and some of my works for CODSOFT company 
