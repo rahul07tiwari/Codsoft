@@ -1,0 +1,42 @@
+.row_1 img{
+  height:400px;
+  width:400px;
+  margin: right 10px;
+}
+.row_1{
+  display: flex;
+  align-items:center;
+}
+.jumbo{
+  background-image: url("/level_1/landing/assets/jumbo.webp");
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+}
+.text{
+  display:flex;
+  flex-direction: column;
+  padding:20px;
+  padding-top: 60px;
+}
+.spectral-regular {
+    font-family: "Spectral", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+  .spectral-regular-italic {
+    font-family: "Spectral", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  .merienda{
+    font-family: "Merienda", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+    
+  }
+  .icon{
+    height:30px;
+    width:40px;
+  }
