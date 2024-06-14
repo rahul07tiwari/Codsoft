@@ -3,7 +3,7 @@
     height: 300px;
     width: 350px;
     top:15%;
-    left:38%;
+    left:58%;
     border-radius:50%;
   }
   .float{
@@ -12,7 +12,17 @@
   }
   .pro{
     position:absolute;
-    margin-left: 920px;
+    margin-left: 700px;
+    padding-bottom: 180px;
+  }
+  .container_1{
+    padding-top: 80px;
+    padding-left:130px;
+    width: 50%;
+  }
+  .container_2{
+    width:auto;
+
   }
   .hyper{
     height:60px;
@@ -22,27 +32,36 @@
     position:absolute;
     right:5%;
     left:35%;
-    padding-top:150px;
+    width:auto;
+    padding-top:80px;
     padding-left:70px;
   }
   .img{
     height:400px;
     width:400px;
-    margin-left:40px;
+    margin-left:100px;
     margin: right 50px;
 
   }
   .para{
     position:absolute;
     left:45%;
-    top:45%;
+    right:10%;
+    top:40%;
     display: flex;
+    text-align: justify;
   }
   .info{  
     position:absolute;
     left:45%;
-    top:35%;
+    top:30%;
     display: flex;
+  }
+  .container_3{
+    width:auto;
+  }
+  .text-container{
+    width:auto;
   }
   *{
     font-family: "Spectral", serif;
